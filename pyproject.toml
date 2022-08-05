@@ -9,6 +9,11 @@ python = "^3.9"
 jupyter = {extras = ["all"], version = "^1.0.0"}
 geemap = "^0.15.5"
 earthengine-api = "^0.1.317"
+pandas = "^1.4.3"
+sklearn = "^0.0"
+plotnine = "^0.9.0"
+geopandas = "^0.11.1"
+matplotlib = "^3.5.2"
 
 [tool.poetry.dev-dependencies]
 
