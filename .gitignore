@@ -1,3 +1,5 @@
 *.csv
-*.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
 ./data/*
+./output/*
+!/output/.gitkeep
