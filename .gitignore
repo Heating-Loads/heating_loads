@@ -3,3 +3,4 @@ notebooks/.ipynb_checkpoints
 ./data/*
 ./output/*
 !/output/.gitkeep
+*.npy
