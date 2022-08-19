@@ -4,3 +4,4 @@ notebooks/.ipynb_checkpoints
 ./output/*
 !/output/.gitkeep
 *.npy
+*.DS_Store
